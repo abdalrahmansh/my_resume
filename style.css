@@ -1,0 +1,182 @@
+*{
+  font-family: 'Kanit';
+}
+
+body{
+  width: 50em;
+}
+
+.asset2{
+  position: absolute;
+  right: 0px;
+  top: 950px;
+  z-index: -1;
+}
+
+li{
+    color: #F6924A; 
+}
+li span{
+    color: #000000; 
+}
+
+h2{
+  font-weight: bold;
+}
+
+h4{
+  color: #F6924A;
+}
+
+p{
+  color: #939598;
+}
+
+/* About section */
+
+.asset{
+  position: absolute;
+  z-index: -1;
+}
+
+.my-img{
+  float: left;
+  border: solid;
+  border-width: 7px;
+  border-radius: 100%;
+  border-color: #F6924A;
+  width: 12em;
+  left: 2em;
+  top: 3em;
+  position: relative;
+  z-index: 0;
+}
+
+.my-info{
+position: relative;
+left: 6em;
+top: 4em;
+margin-bottom: 8em;
+}
+
+/* Contact section */
+
+.para{
+  width: 40em;
+}
+
+.bi{
+  padding-right: 20px;
+  color:#F6924A;
+  font-weight: bold;
+  font-size: large;
+}
+
+.cn1 ,.cn2{
+  display: inline-block;
+} 
+
+#contact{
+  background-color: #e1e4e7;
+  height: 4em;
+  padding-top:1em ;
+  margin-bottom: 2em;
+}
+
+.contact{
+  display: inline-block;
+  text-align: center;
+  padding-left: 9em;
+}
+
+/* Work-experince section */
+
+.test {
+  background-color: #F6924A;
+  height: 120px;
+  width: 12px;
+  position: absolute;
+  left: 0;
+}
+
+/* Academic-education section */
+
+
+/* Volunteer-experience section */
+
+#volunteer-experience{
+  padding-left: 3em;
+  /* padding-top: 2.5em; */
+  padding-bottom: 0;
+}
+
+/* Skills section */
+
+
+/* Interests section */
+
+#Interests{
+  padding-left: 3em;
+  padding-top: em;
+}
+
+/* Languages setion */
+
+/* #languages{
+  padding-left: 3em;
+  padding-top: 2.5em; 
+} */
+
+
+/* work-experince */
+
+#work-experince{
+  padding-left: 3em;
+}
+
+
+/* volunteer-experience */
+
+
+.col-6{
+    padding-top: 2.5em;
+
+}
+
+
+/* .colores{
+  color: #F6924A;
+  width: 1em;
+  position:absolute ;
+} */
+
+
+
+
+/* }
+.hrr{
+  border-left: 6px solid #F6924A;
+  height: 100px;
+  position: absolute;
+  top: 22em;
+}
+
+.hr {
+  border: solid;
+  color:  #F6924A;
+  width: 8em;
+  right: 2em;
+  top: 4em;
+  position: absolute; 
+} */
+
+
+/* 
+.test{
+  background-color:#F6924A ;
+  width: 10px;
+  height: 12em;
+  position: absolute;
+  top: 25em;
+  left: 0;
+} */
